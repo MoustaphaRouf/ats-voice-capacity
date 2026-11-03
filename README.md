@@ -172,5 +172,3 @@ SSRN. Code: https://github.com/MoustaphaRouf/ats-voice-capacity
 ## License
 
 MIT
-#   a t s - v o i c e - c a p a c i t y  
- 
